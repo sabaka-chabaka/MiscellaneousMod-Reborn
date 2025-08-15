@@ -2,10 +2,10 @@
 
 Мне было скучно, я решил сделать что то полезное, теперь вы видите мод для 1.18.2 Forge
 
-## Обновления каждую неделю
+## Обновления каждую неделю (нет гы-гы-гы)
 
 # ENG
 
 I was bored, I decided to make something useful, now you see the mod for 1.18.2 Forge
 
-## Updates every week
+## Updates every week (no ha-ha-ha)
